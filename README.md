@@ -1,0 +1,1 @@
+implement some basic algos xD
